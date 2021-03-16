@@ -1,2 +1,2 @@
 # martingale-betting-simulation
-Simulation of the martingale betting strategy.
+In betting, the martingale strategy is a strategy where the player doubles their bet after each lost bet. In theory, this means that player will be able to win back any money they have previously lost, since they almost surely eventually will win a bet. In reality however, the player is restricted by the amount of money they have, and it is possible that they lose all their money before winning anything. This program simulates the martingale strategy many times, and investigates if it is a good strategy for players with a limited amount of money.
